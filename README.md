@@ -55,7 +55,7 @@ Canlı site bağlantısını aşağıya ekleyebilirsiniz:
 ```
 
 ### 📋 Menü
-```md
+
 <img width="1920" height="1040" alt="3" src="https://github.com/user-attachments/assets/eb1f5275-258f-411e-a300-d94826f3238d" />
 
 <img width="1920" height="1040" alt="4" src="https://github.com/user-attachments/assets/410a1e00-8c05-4b08-b95c-4fb6f6d03f7c" />
@@ -65,7 +65,7 @@ Canlı site bağlantısını aşağıya ekleyebilirsiniz:
 <img width="1920" height="1040" alt="6" src="https://github.com/user-attachments/assets/466eaeca-9c76-45fd-9bc1-6b2dcfc8b08b" />
 
 <img width="1920" height="1040" alt="7" src="https://github.com/user-attachments/assets/95af69dd-4823-40f2-83ff-6aca99fa7b30" />
-```
+
 
 ### ℹ️ Hakkımda
 ```md

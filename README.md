@@ -48,11 +48,11 @@ Canlı site bağlantısını aşağıya ekleyebilirsiniz:
 ## 🖼️ Site Görselleri
 
 ### 🏠 Anasayfa
-```md
+
 <img width="1920" height="1040" alt="1" src="https://github.com/user-attachments/assets/138f876e-08e9-4607-88bc-0e7c099b795e" />
 
 <img width="1920" height="1040" alt="2" src="https://github.com/user-attachments/assets/5d3fe4c1-143e-4680-930c-9df486a1d414" />
-```
+
 
 ### 📋 Menü
 
@@ -68,11 +68,11 @@ Canlı site bağlantısını aşağıya ekleyebilirsiniz:
 
 
 ### ℹ️ Hakkımda
-```md
+
 <img width="1920" height="1040" alt="8" src="https://github.com/user-attachments/assets/121a779f-bad5-44a4-b4f0-a451b1196df6" />
 
 <img width="1920" height="1040" alt="8" src="https://github.com/user-attachments/assets/77d6818e-e465-4c70-9a20-7bd41267865a" />
-```
+
 
 ## 👨‍💻 Geliştirici
 Utku Altunay
